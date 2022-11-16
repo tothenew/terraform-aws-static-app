@@ -1,9 +1,9 @@
-# terraform-aws-template
+# terraform-aws-static-app
 
-[![Lint Status](https://github.com/tothenew/terraform-aws-template/workflows/Lint/badge.svg)](https://github.com/tothenew/terraform-aws-template/actions)
-[![LICENSE](https://img.shields.io/github/license/tothenew/terraform-aws-template)](https://github.com/tothenew/terraform-aws-template/blob/master/LICENSE)
+[![Lint Status](https://github.com/tothenew/terraform-aws-static-app/workflows/Lint/badge.svg)](https://github.com/tothenew/terraform-aws-static-app/actions)
+[![LICENSE](https://img.shields.io/github/license/tothenew/terraform-aws-static-app)](https://github.com/tothenew/terraform-aws-static-app/blob/master/LICENSE)
 
-This is a template to use for baseline. The default actions will provide updates for section bitween Requirements and Outputs.
+This is a static-app to use for baseline. The default actions will provide updates for section bitween Requirements and Outputs.
 
 The following content needed to be created and managed:
  - Introduction
@@ -46,4 +46,4 @@ Module managed by [TO THE NEW Pvt. Ltd.](https://github.com/tothenew)
 
 ## License
 
-Apache 2 Licensed. See [LICENSE](https://github.com/tothenew/terraform-aws-template/blob/main/LICENSE) for full details.
+Apache 2 Licensed. See [LICENSE](https://github.com/tothenew/terraform-aws-static-app/blob/main/LICENSE) for full details.
